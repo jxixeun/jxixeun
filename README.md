@@ -26,9 +26,6 @@
 </a>  
 
 ## Stats  
-### Github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxixeun&theme=default&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jxixeun)](https://solved.ac/jxixeun)
 <br/>  
