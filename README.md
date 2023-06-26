@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=flat-square&logo=JPA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MyBatis-B5281A?style=flat-square&logo=MyBatis&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Amazon AWS-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
