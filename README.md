@@ -2,7 +2,18 @@
 <h3 align="center">
 안녕하세요 백엔드 개발자 지망생 김지은입니다! 👨‍💻
 </h3>  
-<div align="center">
+
+## About me
+- 홍익대학교 컴퓨터·데이터공학부 컴퓨터공학전공 졸업
+(2018.03. ~ 2023.02.)
+- HI-ARC (홍익대학교 컴퓨터공학과 소속 알고리즘 학회)
+(2020.03 ~ 2022.02)
+- ICPC Sinchon Algorithm Camp
+(2020 여름, 2021 겨울, 2022 겨울)
+- SSAFY(Samsung SW Academy For Youth), 삼성 청년 SW 아카데미 9기
+(2023.01 ~ 진행중)
+
+<a href="https://oxidized-danthus-6a1.notion.site/Jieun-Kim-1e9cdf8e8d6545aa8afd1f10ac5c2201?pvs=4" target="_blank">노션 포트폴리오 바로가기</a>
   
 ## My Skill Set  
 
@@ -32,13 +43,17 @@
   
   
 ## Connect with me  
-
+<a href="mailto:jxixeun@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white alt=gitlab style="margin-bottom: 5px" />
 <a href="https://github.com/jxixeun" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://gitlab.com/jxixeun" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px" />
+<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=flat-square&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px" />
 </a>  
+<a href="https://xntifrxgile.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/tistory-D45D28.svg?&style=flat-square&logo=tistory&logoColor=white alt=gitlab style="margin-bottom: 5px" />
+</a> 
 
 ## Stats  
 ### Solved.ac
