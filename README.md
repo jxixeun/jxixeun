@@ -13,7 +13,7 @@
 - SSAFY(Samsung SW Academy For Youth), 삼성 청년 SW 아카데미 9기
 (2023.01 ~ 진행중)
 
-<a href="https://oxidized-danthus-6a1.notion.site/Jieun-Kim-1e9cdf8e8d6545aa8afd1f10ac5c2201?pvs=4" target="_blank">노션 포트폴리오 바로가기</a>
+<a href="https://jxixeun.notion.site/Jieun-Kim-e6a9921e3cdc4ca181b1cbd218366e17?pvs=4" target="_blank">노션 포트폴리오 바로가기</a>
   
 ## My Skill Set  
 
